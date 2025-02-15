@@ -1,0 +1,3 @@
+[submodule "testlib"]
+	path = packages/cpset/testlib
+	url = https://github.com/MikeMirzayanov/testlib.git

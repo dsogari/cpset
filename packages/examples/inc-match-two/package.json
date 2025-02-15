@@ -1,0 +1,14 @@
+{
+  "name": "@disog/cpset-examples-inc-match-two",
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/dsogari/cpset",
+    "directory": "packages/examples/inc-match-two"
+  },
+  "author": {
+    "name": "Diego Sogari",
+    "email": "diego.sogari@gmail.com"
+  }
+}

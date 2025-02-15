@@ -1,0 +1,36 @@
+{
+  "url": "https://polygon.codeforces.com/p6nMZZ5/dsogari/inc-match-two-easy",
+  "authors": {
+    "dsogari": "diego.sogari@gmail.com",
+  },
+  "testers": {
+    "dsogari": "diego.sogari@gmail.com",
+  },
+  "tags": ["games", "greedy", "strings"],
+  "limits": {
+    "time_ms": 250,
+    "memory_mb": 4,
+    "size_kb": 4,
+  },
+  "info": {
+    "input": "stdin",
+    "output": "stdout",
+    "interactive": false,
+    "rating": 1800,
+  },
+  "files": {
+    "doc/english.statement.md": "english statement",
+    "doc/english.tutorial.md": "english tutorial",
+    "src/checker.cc": "checker",
+    "src/generator.cc": "generator",
+    "src/interactor.cc": "interactor",
+    "src/mle.solution.cc": "memory limit exceeded solution",
+    "src/model.solution.cc": "model solution",
+    "src/tle.solution.cc": "time limit exceeded solution",
+    "src/validator.cc": "validator",
+    "test/checker/1": "checker test #1",
+    "test/solution/1": "statement example",
+    "test/solution/2.sh": "auto-generated test",
+    "test/validator/1": "validator test #1",
+  },
+}

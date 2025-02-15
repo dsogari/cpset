@@ -1,0 +1,14 @@
+{
+  "name": "@disog/cpset-docs",
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/dsogari/cpset",
+    "directory": "packages/docs"
+  },
+  "author": {
+    "name": "Diego Sogari",
+    "email": "diego.sogari@gmail.com"
+  }
+}
